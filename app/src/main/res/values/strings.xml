@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="this_are_the_details_of">This are the details of:</string>
+    <string name="share">Share the name</string>
+</resources>
